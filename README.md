@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amin670it
+- 👋 Hi, I’m MD. Asaduzzaman (Aminur) | @amin670it
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning web/design/coding
+- 🌱 I’m currently learning IT & Technologies.
 - 💞️ I’m looking to collaborate on open-source/paid projects
 - 📫 amin670it@gmail.com
 
